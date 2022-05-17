@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="serverless.jvm.plugin.LocalInvocationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-05-16T12:39:46" hostname="Jankos-MacBook-Pro.local" time="0.455">
+  <properties/>
+  <testcase name="test IntRequestHandler" classname="serverless.jvm.plugin.LocalInvocationTest" time="0.279"/>
+  <testcase name="test DoubleLongRequestHandler" classname="serverless.jvm.plugin.LocalInvocationTest" time="0.009"/>
+  <testcase name="test StringRequestHandler" classname="serverless.jvm.plugin.LocalInvocationTest" time="0.008"/>
+  <testcase name="test SimpleRequestStreamHandler" classname="serverless.jvm.plugin.LocalInvocationTest" time="0.018"/>
+  <testcase name="test PojoRequestHandler" classname="serverless.jvm.plugin.LocalInvocationTest" time="0.137"/>
+  <testcase name="test PojoRequestHandler failure" classname="serverless.jvm.plugin.LocalInvocationTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
